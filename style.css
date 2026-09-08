@@ -603,7 +603,7 @@ h1 {
   padding: clamp(26px, 5vw, 46px);
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(232, 243, 235, 0.9)),
-    url("./IMG_0342.JPG") center/cover;
+    url("./IMG_0342.JPG?v=20260908") center/cover;
 }
 
 .meta-list {
